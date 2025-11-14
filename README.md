@@ -46,22 +46,28 @@ With clean data, it was time to make it more powerful.
 
 * Weekend Occupancy is Significantly Higher: There is a clear pattern of higher bookings during weekends. The average occupancy rate on weekends is approximately 72.34%, compared to a much lower 50.88% on weekdays.
 
-* Delhi Leads in Occupancy, but Mumbai Generates the Most Revenue: Delhi hotels consistently show the highest average occupancy rate at 61.5%. However, Mumbai is the top city for revenue generation, realizing over 668 million, while Delhi generated the least at 294 million. This suggests higher room prices or longer stays in Mumbai.
+* Delhi Leads in Occupancy, but Mumbai Generates the Most Revenue: Delhi hotels consistently show the highest average occupancy rate at 61.5%. However, Mumbai is the top city for revenue generation, realising over 668 million, while Delhi generated the least at 294 million. This suggests higher room prices or longer stays in Mumbai.
 
-* Top Performing Property: The "Atliq Exotica" property stands out as the highest-performing hotel, generating the most realized revenue among all properties in the chain.
+* Top Performing Property: The "Atliq Exotica" property stands out as the highest-performing hotel, generating the most realised revenue among all properties in the chain.
 
 * Room Category Performance is Consistent: Occupancy rates are relatively stable across all room types (Standard, Elite, Premium, and Presidential), with averages hovering between 57% and 59%. Presidential suites have a slightly higher average occupancy at 59.28%.
 
 * Customer Ratings Vary Slightly by City: Customer satisfaction, as measured by ratings, is highest in Delhi with an average rating of 3.78. Bangalore has the lowest average rating at 3.41.
 
-* June Performance: The analysis for the month of June shows that Delhi maintained its lead in occupancy with a rate of 62.47%.
+* June Performance: The analysis for June shows that Delhi maintained its lead in occupancy with a rate of 62.47%.
 
-* Booking Platform Contribution: The analysis includes a breakdown of revenue realized per booking platform, which helps identify the most financially significant channels for the business.
+* Booking Platform Contribution: The analysis includes a breakdown of revenue realised per booking platform, which helps identify the most financially significant channels for the business.
 
 * This analysis provides a solid foundation for AtliQ Hotels to make smarter, data-driven decisions about marketing, pricing, and operations.
 
 ## 🛠️ Tools Used
 * Python
 * Pandas
-* Matplotlib (for visualizations)
+* Matplotlib (for visualisations)
 * Jupyter Notebook
+
+
+## Dashboard
+
+### 🏠 Home
+![Dashboard Preview](https://github.com/ADsaint13/AtliQ-Hospitality-Analysis/blob/main/Home.png)
